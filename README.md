@@ -4,6 +4,4 @@
 
 - 关注我，获取更多干货知识
 
-<div align=center>
-<img src="logo.jpg">
-</div>
+![logo](https://github.com/linuxarsenal/Cpp-Basics/blob/main/logo.jpg)
